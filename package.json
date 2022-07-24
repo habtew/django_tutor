@@ -8,9 +8,24 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "habtamu",
   "license": "ISC",
-    "devDependencies": {
-    "lite-server": "^2.3.0"
-  }
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/habtew/e-commerce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/habtew/e-commerce/issues"
+  },
+  "homepage": "https://github.com/habtew/e-commerce#readme"
 }
